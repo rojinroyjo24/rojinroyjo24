@@ -10,7 +10,7 @@
 <h4 align="left">Hi 👋! My name is  Rojin Roy and I'm from Kerala,India</h4>
 
 ###
-
+<body bgcolor="black">
 <img align="right" height="150" src="https://i.pinimg.com/originals/e8/aa/11/e8aa11a4aa5780b26dec05c85a9eb548.gif"  />
 
 ###
@@ -38,7 +38,7 @@
 [![](https://visitcount.itsvg.in/api?id=rojinroyjo24&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+</body>
 ###
 <!---
 rojinroyjo24/rojinroyjo24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
