@@ -2,11 +2,14 @@
 
 # ✨ ROJIN ROY ✨
 
-📍 **Idukki, Kerala**  
-📧 **Email:** [rojinroyjo24@gmail.com](mailto:rojinroyjo24@gmail.com)  
-📱 **Phone:** 9072783958  
-💻 **GitHub:** [rojinroyjo24](https://github.com/rojinroyjo24)  
-🔗 **LinkedIn:** Rojin Roy
+---
+
+| 📍 **Location:** | Idukki, Kerala |
+|:---:|:---:|
+| 📧 **Email:** | [rojinroyjo24@gmail.com](mailto:rojinroyjo24@gmail.com) |
+| 📱 **Phone:** | 9072783958 |
+| 💻 **GitHub:** | [rojinroyjo24](https://github.com/rojinroyjo24) |
+| 🔗 **LinkedIn:** | Rojin Roy |
 
 </div>
 
