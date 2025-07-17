@@ -18,6 +18,8 @@ MCA graduate with hands-on experience in web development using **PHP, HTML, CSS,
 
 ---
 
+<div align="center">
+
 ## 🎓 Education
 
 | Degree | Institution | Year |
@@ -26,6 +28,8 @@ MCA graduate with hands-on experience in web development using **PHP, HTML, CSS,
 | **BCA** | JPM Arts and Science College, Kattappana | July 2020 – May 2023 |
 | **Plus Two** | St George HSS, Vazhathope | July 2018 – April 2020 |
 | **SSLC** | GVHSS Vazhathope | June 2017 – March 2018 |
+
+</div>
 
 ---
 
