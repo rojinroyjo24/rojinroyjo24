@@ -216,22 +216,8 @@ I'm a **Python Full Stack Developer** from Kerala, India — an MCA graduate who
 
 <br/><br/>
 
-<!-- ── GitHub Trophies ── -->
-<img src="https://github-profile-trophy.vercel.app/?username=rojinroyjo24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
-
-<br/>
-
-<!-- ── Snake Contribution Animation ── -->
-<!-- 🔧 CUSTOMIZATION: This uses a GitHub Action to generate. See setup below. -->
-<!-- If you haven't set up the Action yet, uncomment the static activity graph instead -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rojinroyjo24/rojinroyjo24/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rojinroyjo24/rojinroyjo24/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/rojinroyjo24/rojinroyjo24/output/github-snake.svg" />
-</picture>
-
-<!-- FALLBACK: If snake isn't set up yet, use this activity graph instead (uncomment below, comment out snake above) -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojinroyjo24&theme=tokyo-night&hide_border=true&radius=12" width="100%" alt="Contribution Graph"/> -->
+<!-- ── Activity Graph ── -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rojinroyjo24&theme=tokyo-night&hide_border=true&radius=16&area=true&area_color=6C63FF&line=6C63FF&point=FFFFFF" width="100%" alt="Contribution Graph"/>
 
 </div>
 
