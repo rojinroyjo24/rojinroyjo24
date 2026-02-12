@@ -192,29 +192,48 @@ I'm a **Python Full Stack Developer** from Kerala, India — an MCA graduate who
 
 <!-- ─────────────────────────── GITHUB STATS ─────────────────────────── -->
 
-## 📊 GitHub Stats
-
-<!-- 🔧 CUSTOMIZATION: Stats will auto-populate from your GitHub activity -->
-<!-- To use a custom theme, change &theme=tokyonight to any supported theme -->
-<!-- Available themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rojinroyjo24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=rojinroyjo24&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+<!-- ── Streak Stats ── -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=rojinroyjo24&theme=tokyonight&hide_border=true&border_radius=16&card_width=800&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- ── Profile Summary Cards (5-card layout) ── -->
+<!-- 🔧 CUSTOMIZATION: Change theme → available: tokyonight, radical, dracula, monokai, etc. -->
+<!-- Full list: https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rojinroyjo24&theme=tokyonight" alt="Stats"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rojinroyjo24&theme=tokyonight" alt="Top Languages by Repo"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rojinroyjo24&theme=tokyonight" alt="Top Languages by Commit"/>
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rojinroyjo24&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rojinroyjo24&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rojinroyjo24&theme=tokyonight" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<!-- ── GitHub Trophies ── -->
+<img src="https://github-profile-trophy.vercel.app/?username=rojinroyjo24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+
+<br/>
+
+<!-- ── Snake Contribution Animation ── -->
+<!-- 🔧 CUSTOMIZATION: This uses a GitHub Action to generate. See setup below. -->
+<!-- If you haven't set up the Action yet, uncomment the static activity graph instead -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rojinroyjo24/rojinroyjo24/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rojinroyjo24/rojinroyjo24/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/rojinroyjo24/rojinroyjo24/output/github-snake.svg" />
+</picture>
+
+<!-- FALLBACK: If snake isn't set up yet, use this activity graph instead (uncomment below, comment out snake above) -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojinroyjo24&theme=tokyo-night&hide_border=true&radius=12" width="100%" alt="Contribution Graph"/> -->
 
 </div>
-
-<br/>
-
-<!-- ─────────────────────────── CONTRIBUTION GRAPH ─────────────────────────── -->
-
-<!-- 🔧 CUSTOMIZATION: Activity graph — change theme colors as desired -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rojinroyjo24&theme=tokyo-night&hide_border=true&radius=12" width="100%" alt="Contribution Graph"/>
 
 <br/>
 
