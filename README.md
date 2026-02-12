@@ -17,6 +17,7 @@
 <!-- Social badges — update hrefs with your actual profile URLs -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rojinroy)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rojinroyjo24)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the.shutterhead)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rojinroyjo24@gmail.com)
 <!-- � CUSTOMIZATION: Add your portfolio link below when ready -->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) -->
@@ -265,6 +266,7 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/-Rojin%20Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rojinroy)
 [![Email](https://img.shields.io/badge/-rojinroyjo24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rojinroyjo24@gmail.com)
+[![Instagram](https://img.shields.io/badge/-@the.shutterhead-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the.shutterhead)
 [![GitHub](https://img.shields.io/badge/-rojinroyjo24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rojinroyjo24)
 <!-- 🔧 CUSTOMIZATION: Uncomment and update when you have a portfolio site -->
 <!-- [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) -->
