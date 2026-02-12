@@ -217,8 +217,9 @@ I'm a **Python Full Stack Developer** from Kerala, India — an MCA graduate who
 <br/><br/>
 
 <!-- ── GitHub Trophies ── -->
+<!-- ── GitHub Trophies ── -->
 <!-- Using official load-balanced endpoint (volunteer-hosted, more reliable than main instance) -->
-<img src="https://github-profile-trophy-winning.vercel.app/?username=rojinroyjo24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=rojinroyjo24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
 
 <br/><br/>
 
