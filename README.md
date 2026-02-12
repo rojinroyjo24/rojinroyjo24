@@ -200,12 +200,12 @@ I'm a **Python Full Stack Developer** from Kerala, India — an MCA graduate who
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rojinroyjo24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rojinroyjo24&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rojinroyjo24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=rojinroyjo24&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojinroyjo24&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+<img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rojinroyjo24&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
 
 </div>
 
