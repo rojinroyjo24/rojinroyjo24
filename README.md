@@ -5,43 +5,33 @@
 
 <div align="center">
 
-<!-- ── Cyberpunk Neon Waving Header Banner ── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20,30&height=190&section=header&text=Rojin%20Roy&fontSize=42&fontAlignY=36&desc=Python%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=19&fontColor=ffffff" width="100%" alt="Header Banner" />
+<!-- ── Custom Cyberpunk Header Banner (Self-hosted SVG — 100% Reliable & Fast) ── -->
+<img src="./assets/header.svg" width="100%" alt="Rojin Roy - Building the Web. Exploring AI." />
 
-<br/>
+<br/><br/>
 
-<!-- ── Dynamic Typing SVG (Neon Cyan Theme) ── -->
+<!-- ── Dynamic Typing SVG (Single-Line Cycle — No Overlap / Clipping) ── -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=680&height=85&lines=Hey+%F0%9F%91%8B%2C+I'm+Rojin+Roy;Python+Full+Stack+Developer+%7C+AI+Enthusiast;Architecting+Clean%2C+Scalable+%26+Intelligent+Web+Systems;Turning+ideas+into+production-ready+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=Hey+%F0%9F%91%8B%2C+I'm+Rojin+Roy;Web+Developer+%7C+Python+%26+Django;Building+Scalable+Web+Solutions;AI+%26+ML+Enthusiast;Website+SEO+Optimization" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <strong>⚡ <code>Turning ideas into clean, scalable code — one commit at a time.</code> ⚡</strong>
+  <strong>⚡ <code>Building the Web. Exploring AI. — One commit at a time.</code> ⚡</strong>
 </p>
 
-<!-- ── Quick Badges ── -->
+<!-- ── Quick Highlights Badges ── -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-00F2FE?style=for-the-badge&logo=google-maps&logoColor=000&labelColor=0d1117" alt="Location"/>
-  <img src="https://img.shields.io/badge/Education-MCA%20(CGPA%208.12)-4FACFE?style=for-the-badge&logo=mortarboard&logoColor=white&labelColor=0d1117" alt="Education"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-7F00FF?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0d1117" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-Thodupuzha%2C%20Kerala-00F2FE?style=for-the-badge&logo=google-maps&logoColor=000&labelColor=0d1117" alt="Location"/>
+  <img src="https://img.shields.io/badge/Role-Web%20Developer%20%40%20Mostech-4FACFE?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" alt="Role"/>
+  <img src="https://img.shields.io/badge/Education-MCA%20(CGPA%208.12)-7F00FF?style=for-the-badge&logo=mortarboard&logoColor=white&labelColor=0d1117" alt="Education"/>
 </p>
 
-<!-- ── Social Connect Badges ── -->
+<!-- ── Social Connect Badges (Markdown Format: No Underline Artifacts) ── -->
 <p align="center">
-  <a href="https://linkedin.com/in/rojinroy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/rojinroyjo24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub"/>
-  </a>
-  <a href="https://www.instagram.com/the.shutterhead" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:rojinroyjo24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <!-- 🔧 CUSTOMIZATION: Add your portfolio link below when ready -->
-  <!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117" alt="Portfolio"/></a> -->
+  <a href="https://linkedin.com/in/rojinroy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/rojinroyjo24" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub"/></a>&nbsp;
+  <a href="https://www.instagram.com/the.shutterhead" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="mailto:rojinroyjo24@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=rojinroyjo24&label=Profile%20Views&color=00F2FE&style=for-the-badge&labelColor=0d1117" alt="profile views" />
@@ -54,13 +44,13 @@
 
 ## ⚡ About Me
 
-I'm a **Python Full Stack Developer** from Kerala, India — an MCA graduate with a drive for architecting high-performance web systems and integrating intelligent AI/ML solutions.
+I'm a **Web Developer & Python / Django Engineer** based in **Thodupuzha, Kerala, India** — an MCA graduate passionate about engineering robust web architectures, optimizing search performance, and integrating intelligent AI/ML solutions.
 
-- 🔭 Currently working as a **Python Full Stack Developer Intern** at **Quest Innovative Solutions**
+- 💼 Currently working as a **Web Developer** at **Mostech Business Solutions**
 - 🎓 **MCA Graduate** from **Mangalam College of Engineering** (CGPA: **8.12**) under APJ Abdul Kalam Technological University
-- 🧪 Engineered an **AI-powered Deepfake Video Detection** pipeline using **PyTorch**, **OpenCV**, and **Django**
-- 🌱 Actively researching and applying **AI/ML models**, **REST API architecture**, and modern cloud practices
-- 🏏 Outside the terminal: Captaining cricket matches, exploring visual storytelling through photography, or working on graphic design
+- 🧪 Researched and engineered an **AI-powered Deepfake Video Detection** system using **PyTorch**, **OpenCV**, and **Django**
+- 🚀 Core specialties: **Full-Stack Web Development (Python & Django)**, **Website SEO Optimization**, and **AI/ML Integration**
+- 🏏 Beyond coding: Leading cricket teams as captain, capturing perspectives through photography, and designing graphics
 
 <br/>
 
@@ -105,6 +95,16 @@ I'm a **Python Full Stack Developer** from Kerala, India — an MCA graduate wit
 </details>
 
 <details open>
+<summary><b>Web Optimization & Design</b></summary>
+<br/>
+
+![SEO](https://img.shields.io/badge/Website%20SEO-00F2FE?style=for-the-badge&logo=google&logoColor=000&labelColor=0d1117)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-7F00FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
+![Performance](https://img.shields.io/badge/Core%20Web%20Vitals-4FACFE?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=0d1117)
+
+</details>
+
+<details open>
 <summary><b>Databases & Storage</b></summary>
 <br/>
 
@@ -131,8 +131,16 @@ I'm a **Python Full Stack Developer** from Kerala, India — an MCA graduate wit
 
 ## 💼 Experience
 
-### 🔹 Python Full Stack Developer Intern · **Quest Innovative Solutions Pvt. Ltd.**
+### 🔹 Web Developer · **Mostech Business Solutions**
 `📅 Present`
+
+- Engineering full-stack web applications utilizing **Python, Django, and Modern Web Architectures**
+- Implementing strategic **Website SEO Optimization**, Core Web Vitals enhancements, and organic performance tuning
+- Architecting robust RESTful API endpoints, relational database management, and responsive client-side interfaces
+
+---
+
+### 🔹 Python Full Stack Developer Intern · **Quest Innovative Solutions Pvt. Ltd.**
 
 - Architected a **Django-based Student Management System** with role-based auth, CRUD operations & relational DB design
 - Built **RESTful APIs** using Django REST Framework and a Flask-based CRUD application with SQLite
@@ -258,13 +266,9 @@ I'm a **Python Full Stack Developer** from Kerala, India — an MCA graduate wit
 
 <br/><br/>
 
-<!-- ── GitHub Trophies (Radical Theme) ── -->
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=rojinroyjo24&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
-
-<br/><br/>
-
-<!-- ── Activity Graph (Radical Theme with Neon Cyan Line) ── -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rojinroyjo24&theme=radical&hide_border=true&radius=16&area=true&area_color=00F2FE&line=00F2FE&point=00F2FE" width="100%" alt="Contribution Graph"/>
+<!-- ── GitHub Readme Stats & Top Languages ── -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rojinroyjo24&show_icons=true&theme=radical&hide_border=true&title_color=00F2FE&icon_color=00F2FE&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojinroyjo24&layout=compact&theme=radical&hide_border=true&title_color=00F2FE&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
 
 <br/><br/>
 
@@ -286,16 +290,17 @@ I'm a **Python Full Stack Developer** from Kerala, India — an MCA graduate wit
 
 ```yaml
 identity: "Rojin Roy"
-location: "Idukki, Kerala, India 🌿"
+location: "Thodupuzha, Kerala, India 🌿"
 education: "MCA · Mangalam College of Engineering (CGPA: 8.12)"
-current_role: "Python Full Stack Developer Intern @ Quest Innovative Solutions"
+current_role: "Web Developer @ Mostech Business Solutions"
 core_stack:
   backend: ["Python", "Django", "Django REST Framework", "Flask"]
   ai_ml: ["PyTorch", "OpenCV", "NumPy", "Pandas"]
-  databases: ["MySQL", "SQLite", "PostgreSQL"]
   frontend: ["JavaScript", "HTML5", "CSS3", "Bootstrap", "React (Learning)"]
+  specialties: ["Website SEO Optimization", "UI/UX Design", "REST APIs"]
+  databases: ["MySQL", "SQLite", "PostgreSQL"]
 hobbies: ["Cricket 🏏", "Photography 📸", "Graphic Design 🎨", "Football ⚽"]
-motto: "Write code that your future self and teammates will celebrate."
+motto: "Building the Web. Exploring AI."
 fun_fact: "From NCC National Trekking expeditions to NASA Space Apps Hackathon!"
 ```
 
@@ -310,18 +315,10 @@ fun_fact: "From NCC National Trekking expeditions to NASA Space Apps Hackathon!"
 Always open to discussing new engineering challenges, collaborations, and open-source ideas.
 
 <p align="center">
-  <a href="https://linkedin.com/in/rojinroy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rojinroyjo24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/the.shutterhead" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/rojinroyjo24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub"/>
-  </a>
+  <a href="https://linkedin.com/in/rojinroy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:rojinroyjo24@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://www.instagram.com/the.shutterhead" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="https://github.com/rojinroyjo24" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub"/></a>
 </p>
 
 <!-- 🔧 CUSTOMIZATION: Uncomment and update when you have a portfolio site -->
@@ -329,9 +326,7 @@ Always open to discussing new engineering challenges, collaborations, and open-s
 
 <br/>
 
----
-
-<!-- ── Cyberpunk Footer Wave ── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20,30&height=100&section=footer" width="100%" alt="Footer Wave" />
+<!-- ── Glowing Divider ── -->
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 </div>
